@@ -1,4 +1,4 @@
-# Model-for-prediction-of-the-result-of-LOL-games
+# Model for prediction of the result of LOL games
 
 Eric Chen, Ruijia Xiao
 
